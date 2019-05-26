@@ -73,7 +73,13 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 ## Official Meetings
 - General Community Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWP1NPbyf69PUUCus_KsG7FI)
+
+The Community Meeting is the place for general discussion about MakerDAO and it's ecosystem. There is where events, DAI adoption announcements, progress updates, product demos, and general requests are made. It is held on Google hangouts, and it is open to everyone. 
+
 - Scientific Governance and Risk Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [Video Playlist](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) | [Audio Playlist](https://soundcloud.com/makerdao/sets/governance-and-risk)
+
+The scientific Governance and Risk Meetings is where the MakerDAO community discussious the future of the MakerDAO protocol. Here, the community discusses the price, supply and demand of DAI, the stabiliy fee, collateral tyles, and other risk management topics. It is held on Google hangouts, and it is open to everyone. 
+
 - [Weekly Meetings Schedule](https://www.reddit.com/r/MakerDAO/comments/8xvsiy/new_weekly_meetings_schedule/)
 
 ## Beginner Guides
@@ -418,11 +424,11 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 # Lend your Dai
 
-You can check various platform lending rates here:
-- [**LoanScan**](https://loanscan.io/):
+You can check various platform lending rates here: [**LoanScan**](https://loanscan.io/)
 - [**Compound.Finance**](https://app.compound.finance/): Lending and Borrowing Platform for Crypto
 - [**DyDx**](https://dydx.exchange/): Decentralized derivative platform: Users put up collateral in order to borrow DAI, to take a leveraged position in ETH. These users pay interest in order to borrow the DAI they need. DAI holders can come to DYDX and offer DAI to collect this interest. Interest paid depends on the market demand for DAI on DYDX. 
 - [**Dharma**](https://www.dharma.io/): Peer to Peer lending platform. Lend DAI out for a fixed term loan to another individual, who has staked collateral.
+- [**BloqBoard**](https://bloqboard.com/): Digital Asset Lending Platform for collateralized loans originated, settled, serviced and managed on Ethereum.
 - [**Nuo**](https://nuo.network/) Decentralized, non-custodial lending platform. 
 - [**ETHLend**](https://ethlend.io/signup) Centralized, non-custodial lending platform. 
 - [**Nexo**](https://nexo.io/): Centralized Crypto and DAI lending platform. 
@@ -464,7 +470,7 @@ You can check various platform lending rates here:
 
 # Personal Finance Interfaces
 - [**Zerion**](https://beta.zerion.io/): Connect your wallet, and see your accounts as one portfolio. 
-- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio. 
+- [**ETHView**](https://ethview.app/): Scan other wallets, and see their accounts as one portfolio.
 
 # Ecosystem Statistics and Metrics
 - [**DefiPulse**](https://defipulse.com/): Get a sense for the Defi space in general 
