@@ -20,24 +20,30 @@ Below is a collection of resources for anyone interested in exploring MakerDao. 
 
 <!-- TOC -->
 
+### Community
 - [Official Properties](#official-properties)
 - [Official Channels](#official-channels)
 - [Official Meetings](#official-meetings)
+### Learning
 - [Beginner Guides](#beginner-guides)
 - [Tutorials](#tutorials)
 - [FAQs](#faqs)
 - [In Depth Analysis](#in-depth-analysis)
 - [Speculation](#speculation)
 - [Critiques](#critiques)
+### Protocol
 - [Governance](#governance)
 - [Voting](#voting)
+### Ecosystem Growth
 - [Major Milestones | Events](#major-milestones)
 - [Partnerships](#partnerships)
+### Media and Content
 - [AMAs | Interviews](#amas--interviews)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
 - [Dai | MakerDAO Mentions](#dai--makerdao-mentions)
 - [Audits and Security](#audits-and-security)
+### DAI Use Cases
 - [Use Your Dai](#use-your-dai)
 - [Lend Your Dai](#lend-your-dai)
 - [Watch your Dai](#watch-your-dai)
